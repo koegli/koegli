@@ -17,8 +17,8 @@ Senior consultant radiation oncology in Switzerland. Interested in data science 
 | Degree | University | Year |
 |--------|-----------|------|
 | MD     | LMU Munich | 2000 |
-| Habilitation    | TU Munich        | 20010  |
-| Professor adjunct    | UZH        | 20017  |
+| Habilitation    | TU Munich        | 2010  |
+| Professor adjunct    | UZH        | 2017  |
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/nicolaus-andratschke-1a03a4212/)
