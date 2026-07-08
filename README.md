@@ -1,16 +1,24 @@
-## Hi there 👋
+# Nicolaus Andratschke
 
-<!--
-**koegli/koegli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Senior consultant radiation oncology in Switzerland. Interested in data science and outcomes research.
 
-Here are some ideas to get you started:
+## Research Project
+- Reirradiation: outcome modelling with a focus on dose-response and normal-tissue complication
+- High-precision radiotherapy technology
+- Oligometastases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Affiliation
+- University Hospital of Zurich
+- University of Zurich
+
+## Education
+
+| Degree | University | Year |
+|--------|-----------|------|
+| MD     | LMU Munich | 2000 |
+| Habilitation    | TU Munich        | 20010  |
+| Professor adjunct    | UZH        | 20017  |
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/nicolaus-andratschke-1a03a4212/)
