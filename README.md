@@ -1,7 +1,7 @@
 # Nicolaus Andratschke
 
 ## About Me
-Senior consultant radiation oncology in Switzerland. Interested in data science and outcomes research.
+Senior consultant radiation oncologist in Switzerland. Interested in data science and outcomes research.
 
 ## Research Project
 - Reirradiation: outcome modelling with a focus on dose-response and normal-tissue complication
